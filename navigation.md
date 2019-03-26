@@ -1,7 +1,7 @@
 # Oursite docs
 
 [Home](https://object.net/)
-[Docs index](/)
+[Docs index](/mdwiki)
 [Tutorials]()
 
  * [Getting Started](tut_getting_started.md)
