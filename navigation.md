@@ -1,6 +1,7 @@
 # Oursite docs
 
 [Home](https://object.net/)
+[Docs index](/)
 [Tutorials]()
 
  * [Getting Started](tut_getting_started.md)
